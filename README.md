@@ -32,7 +32,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-![Myntra Dashboard](images/dashboard_preview.png)
+![Myntra Dashboard](myntra_final_dashboard.png)
 
 ---
 
